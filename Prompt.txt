@@ -1,0 +1,7 @@
+make me schema using node js express mongoose 
+
+
+i want to Shipping schema 
+
+- inside of dhaka ( number int )
+- outside of dhaka  ( number int  )
